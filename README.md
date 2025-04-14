@@ -7,7 +7,7 @@ Instantly create QR codes for any text, link, or message with just one click.
 
 ## 🚀 Live Demo
 
-👉 [Visit Live Site](https://weather-app-coral-seven-64.vercel.app)
+👉 [Visit Live Site](https://qr-generator-beta-dusky.vercel.app/)
 
 ---
 
